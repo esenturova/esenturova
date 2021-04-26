@@ -6,10 +6,10 @@
 
 - 🥰 I am aspiring Front-end developer.
 - 🔭 I’m  working with Html , CSS, SCSS.
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS.
 
 
 
 - 📫 How to reach me: e-mail- aiperi.esenturova@iaau.edu.kg
 
-- ⚡ Fun fact: I'm second year student of Phylology department.
+- ⚡ Fun fact: I'm second year student of Philology department.(It means that I am a humanist, but I am happy to learn programming.)
